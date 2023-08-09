@@ -1,0 +1,1 @@
+print("La cerveza se llama:\n" + "\"" + input("Primer mascota:") + " " + input("Abuela: ") + "\"")
